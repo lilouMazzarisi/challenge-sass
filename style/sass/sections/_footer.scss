@@ -1,0 +1,5 @@
+@use '../variables.scss';
+
+footer {
+    padding: variables.$padding*3;
+}

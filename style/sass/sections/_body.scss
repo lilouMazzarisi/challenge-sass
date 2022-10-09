@@ -1,0 +1,10 @@
+@use '../variables.scss';
+
+body {
+    font: 100% "Space Mono", monospace;
+    color: variables.$darkGrey;
+    margin: 0;
+    padding: variables.$padding;
+    background-color: variables.$white;
+    overflow-x: hidden;
+}
